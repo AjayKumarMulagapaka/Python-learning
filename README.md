@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajaykumar2222
+- 👋 Hi, I’m @ajaykumar
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
